@@ -1,0 +1,11 @@
+1) Install Node.
+2) Open CMD > node -v (To check the Version if Node)
+3) npm install npm --global 
+4) Make a Directory > npm init
+5) npm install express (node_Module is Created and express is added in the dependencies) 
+
+NOTE: If you want to add new modules e.g., Bbootstrap. You can Add it manually in the dependencies and run the command (npm install)
+
+
+
+qftnrwgczkfjwjnr  (App Password)
