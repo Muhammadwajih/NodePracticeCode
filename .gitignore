@@ -1,6 +1,3 @@
-#ignoring node Module
-node_modules
-
 # Logs
 logs
 *.log
